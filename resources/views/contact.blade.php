@@ -82,17 +82,17 @@
                 <div class="row">
                     <div class="col-md-4">
                         <img src="images/misc/p1.jpg" alt="" class="img-fluid mb30">
-                        <h3>US Office</h3>
+                        <h3>Kikuyu Office</h3>
                         <address class="s1">
-                            <span><i class="id-color fa fa-map-marker fa-lg"></i>08 W 36th St, New York, NY 10001</span>
-                            <span><i class="id-color fa fa-phone fa-lg"></i>+1 333 9296</span>
-                            <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
+                            <span><i class="id-color fa fa-map-marker fa-lg"></i>Jooi Centre 2nd floor Suite 63C Kikuyu Branch</span>
+                            <span><i class="id-color fa fa-phone fa-lg"></i>0721 611 374 / 0746463548</span>
+                            <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">wnadvocates07@gmail.com</a></span>
                             <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
                         </address>
                     </div>
                     <div class="col-md-4">
                         <img src="images/misc/p2.jpg" alt="" class="img-fluid mb30">
-                        <h3>UK Office</h3>
+                        <h3>Kamangu Office</h3>
                         <address class="s1">
                             <span><i class="id-color fa fa-map-marker fa-lg"></i>100 Mainstreet Center, Sydney</span>
                             <span><i class="id-color fa fa-phone fa-lg"></i>+61 333 9296</span>
@@ -102,7 +102,7 @@
                     </div>
                     <div class="col-md-4">
                         <img src="images/misc/p3.jpg" alt="" class="img-fluid mb30">
-                        <h3>AU Office</h3>
+                        <h3>Thogoto Office</h3>
                         <address class="s1">
                             <span><i class="id-color fa fa-map-marker fa-lg"></i>100 Mainstreet Center, Sydney</span>
                             <span><i class="id-color fa fa-phone fa-lg"></i>+61 333 9296</span>
