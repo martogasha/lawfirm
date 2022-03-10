@@ -45,7 +45,7 @@
                         <div class="de-flex-col">
                             <!-- logo begin -->
                             <div id="logo">
-                                <a href="index.html">
+                                <a href="{{url('/')}}">
                                     <img alt="" class="logo" src="images/logo-light.png" />
                                     <img alt="" class="logo-2" src="images/logo.png" />
                                 </a>
@@ -84,7 +84,7 @@
                 <ul>
                     <li data-transition="fade" data-slotamount="10" data-masterspeed="300" data-thumb="">
                         <!--  BACKGROUND IMAGE -->
-                        <img alt="" class="rev-slidebg" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" src="images/slider/1.jpg">
+                        <img alt="" class="rev-slidebg" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" src="images/slider/s11.jpg">
                         <div class="tp-caption big-s1" data-x="0" data-y="230" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_in="y:100px;opacity:0;s:500;e:Power2.easeOut;" data-transform_out="opacity:0;y:-100;s:200;e:Power2.easeInOut;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
                             <h3 class="id-color">Need Any Help?</h3>
                         </div>
@@ -92,15 +92,15 @@
                             <h1>We Fight for Right</h1>
                         </div>
                         <div class="tp-caption" data-x="0" data-y="360" data-width="480" data-height="none" data-whitespace="wrap" data-transform_in="y:100px;opacity:0;s:500;e:Power2.easeOut;" data-transform_out="opacity:0;y:-100;s:600;e:Power2.easeInOut;" data-start="700">
-                            <p class="lead xs-hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="lead xs-hide">The daily tasks for a human rights lawyer and ancillary staff can include: advising clients (individuals or groups) on actions taken by various public bodies or organisations.</p>
                         </div>
                         <div class="tp-caption" data-x="0" data-y="450" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_in="y:100px;opacity:0;s:500;e:Power2.easeOut;" data-transform_out="opacity:0;y:-100;s:800;e:Power2.easeInOut;" data-start="800">
-                            <a class="btn-custom" href="features.html">Contact Us</a>
+                            <a class="btn-custom" href="{{url('contact')}}">Contact Us</a>
                         </div>
                     </li>
                     <li data-transition="fade" data-slotamount="10" data-masterspeed="300" data-thumb="">
                         <!--  BACKGROUND IMAGE -->
-                        <img alt="" class="rev-slidebg" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" src="images/slider/2.jpg">
+                        <img alt="" class="rev-slidebg" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" src="images/slider/s2.JPG">
                         <div class="tp-caption big-s1" data-x="0" data-y="230" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_in="y:100px;opacity:0;s:500;e:Power2.easeOut;" data-transform_out="opacity:0;y:-100;s:200;e:Power2.easeInOut;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
                             <h3 class="id-color">Law &amp; Insurance Specialist</h3>
                         </div>
@@ -108,10 +108,10 @@
                             <h1>Because We Care</h1>
                         </div>
                         <div class="tp-caption" data-x="0" data-y="360" data-width="480" data-height="none" data-whitespace="wrap" data-transform_in="y:100px;opacity:0;s:500;e:Power2.easeOut;" data-transform_out="opacity:0;y:-100;s:600;e:Power2.easeInOut;" data-start="700">
-                            <p class="lead xs-hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="lead xs-hide">Our goal is to make a difference with exceptional in-home care to adults.</p>
                         </div>
                         <div class="tp-caption" data-x="0" data-y="450" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_in="y:100px;opacity:0;s:500;e:Power2.easeOut;" data-transform_out="opacity:0;y:-100;s:800;e:Power2.easeInOut;" data-start="800">
-                            <a class="btn-custom" href="features.html">Contact Us</a>
+                            <a class="btn-custom" href="{{url('contact')}}">Contact Us</a>
                         </div>
                     </li>
                 </ul>
