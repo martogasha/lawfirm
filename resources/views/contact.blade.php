@@ -42,8 +42,8 @@
                             <!-- logo begin -->
                             <div id="logo">
                                 <a href="{{url('/')}}">
-                                    <img alt="" class="logo" src="images/logo-light.png" />
-                                    <img alt="" class="logo-2" src="images/logo.png" />
+                                    <img alt="" class="logo" src="images/lo.png" />
+                                    <img alt="" class="logo-2" src="images/lo.png" />
                                 </a>
                             </div>
                             <!-- logo close -->
@@ -174,7 +174,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="widget">
-                        <a href="index.html"><img alt="" class="img-fluid mb20" src="images/logo-light.png"></a>
+                        <a href="index.html"><img alt="" class="img-fluid mb20" src="images/lo.png"></a>
                         <address class="s1">
                             <span><i class="id-color fa fa-map-marker fa-lg"></i>Jooi Centre 2nd floor Suite 63C Kikuyu Branch</span>
                             <span><i class="id-color fa fa-phone fa-lg"></i>0721 611 374 / 0746463548

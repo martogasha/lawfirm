@@ -46,8 +46,8 @@
                             <!-- logo begin -->
                             <div id="logo">
                                 <a href="{{url('/')}}">
-                                    <img alt="" class="logo" src="images/logo-light.png" />
-                                    <img alt="" class="logo-2" src="images/logo.png" />
+                                    <img alt="" class="logo" src="images/lo.png" />
+                                    <img alt="" class="logo-2" src="images/lo.png" />
                                 </a>
                             </div>
                             <!-- logo close -->
@@ -141,7 +141,8 @@
                         <div class="small-border sm-left"></div>
                     </div>
                     <div class="col-md-8">
-                        <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt officia. Fugiat velit proident aliquip nisi incididunt nostrud exercitation proident est nisi. Irure magna elit commodo anim ex veniam culpa eiusmod id nostrud sit cupidatat in veniam ad. Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.
+                        <p>
+                            The right to reputation includes the protection of dignity and preservation of individual respect in society. Commercially, the right to reputation has a different connotation. A product creates its own goodwill in the market through various management methods and such products are generally trademark protected.
                         </p>
                     </div>
                 </div>
@@ -156,12 +157,12 @@
                             <div class="cover">
                                 <div class="c-inner">
                                     <h3><i class="icofont-people"></i><span>Business Law</span></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>Law governs and regulates virtually all aspects of the business process, from the right to engage in a business or trade, to the legal form of a business, to agreements for buying and selling merchandise or rendering services.</p>
                                     <div class="spacer20"></div>
                                     <a href="#" class="btn-custom capsule">Read more</a>
                                 </div>
                             </div>
-                            <img src="images/services/1.jpg" alt="" class="img-responsive" />
+                            <img src="images/services/b.JPG" alt="" class="img-responsive" />
                         </div>
                     </div>
                     <div class="col-md-4 mb-sm-30 wow fadeInRight" data-wow-delay=".4s">
@@ -169,12 +170,12 @@
                             <div class="cover">
                                 <div class="c-inner">
                                     <h3><i class="icofont-home"></i><span>Family Law</span></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>Family law is a legal practice area that focuses on issues involving family relationships such as marriage, adoption, divorce, and child custody, among others. Attorneys practicing family law can represent clients in family court proceedings or in related negotiations.</p>
                                     <div class="spacer20"></div>
                                     <a href="#" class="btn-custom capsule">Read more</a>
                                 </div>
                             </div>
-                            <img src="images/services/2.jpg" alt="" class="img-responsive" />
+                            <img src="images/services/b1.JPG" alt="" class="img-responsive" />
                         </div>
                     </div>
                     <div class="col-md-4 mb-sm-30 wow fadeInRight" data-wow-delay=".6s">
@@ -182,12 +183,13 @@
                             <div class="cover">
                                 <div class="c-inner">
                                     <h3><i class="icofont-law-order"></i><span>Criminal Law</span></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>
+                                        Criminal law, the body of law that defines criminal offenses, regulates the apprehension, charging, and trial of suspected persons, and fixes penalties and modes of treatment applicable to convicted offenders.</p>
                                     <div class="spacer20"></div>
                                     <a href="#" class="btn-custom capsule">Read more</a>
                                 </div>
                             </div>
-                            <img src="images/services/3.jpg" alt="" class="img-responsive" />
+                            <img src="images/services/b2.jpg" alt="" class="img-responsive" />
                         </div>
                     </div>
                 </div>
@@ -201,9 +203,6 @@
                             <h2>Practice Areas</h2>
                             <div class="small-border"></div>
                         </div>
-                    </div>
-                    <div class="col-md-6 offset-md-3 text-center">
-                        <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt officia. Fugiat velit proident aliquip nisi incididunt nostrud exercitation proident est nisi. Irure magna elit commodo anim ex veniam culpa.</p>
                     </div>
                     <div class="spacer-single"></div>
                     <div class="col-md-4">
@@ -336,7 +335,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="widget">
-                        <a href="index.html"><img alt="" class="img-fluid mb20" src="images/logo-light.png"></a>
+                        <a href="index.html"><img alt="" class="img-fluid mb20" src="images/lo.png"></a>
                         <address class="s1">
                             <span><i class="id-color fa fa-map-marker fa-lg"></i>Jooi Centre 2nd floor Suite 63C Kikuyu Branch</span>
                             <span><i class="id-color fa fa-phone fa-lg"></i>0721 611 374 / 0746463548
