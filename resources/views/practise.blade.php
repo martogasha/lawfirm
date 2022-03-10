@@ -82,12 +82,33 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 mb30">
                         <div class="feature-box f-boxed style-3 text-center">
-                            <i class="id-color icofont-worker"></i>
+                            <i class="id-color icofont-building"></i>
                             <div class="text">
-                                <h4>Labor</h4>
-                                What Do Labor Lawyers Do? As a division of employment law, labor lawyers represent both employers and employees in disputes and negotiations.
-                            </div>
-                            <i class="wm icofont-worker"></i>
+                                <h4>Property</h4>
+                                Property Lawyers help clients deal with a wide range of property-related issues including buying, selling, subdividing, transferring titles, council and building restrictions, tax implications, approval processes, and restrictive covenants and easements.                            </div>
+                            <i class="wm icofont-building"></i>
+                            <div class="spacer-single"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mb30">
+                        <div class="feature-box f-boxed style-3 text-center">
+                            <i class="id-color icofont-light-bulb"></i>
+                            <div class="text">
+                                <h4>Intellectual Property</h4>
+
+                                Intellectual property rights (IPR) are the rights given to persons over the creations of their minds: inventions, literary and artistic works, and symbols, names and images used in commerce. They usually give the creator an exclusive right over the use of his/her creation for a certain period of time.                            </div>
+                            <i class="wm icofont-light-bulb"></i>
+                            <div class="spacer-single"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mb30">
+                        <div class="feature-box f-boxed style-3 text-center">
+                            <i class="id-color icofont-bank"></i>
+                            <div class="text">
+                                <h4>Banking &amp; Insurance</h4>
+
+                                A banking and finance lawyer arranges loans to buy other companies, or to finance new business ventures. They also give legal advice, and work on a variety of corporate and finance-related cases. Banking and finance lawyers work for either a borrower (an individual or a company), or a lender (usually a bank).                            </div>
+                            <i class="wm icofont-bank"></i>
                             <div class="spacer-single"></div>
                         </div>
                     </div>
@@ -146,33 +167,12 @@
                     </div>
                     <div class="col-lg-4 col-md-6 mb30">
                         <div class="feature-box f-boxed style-3 text-center">
-                            <i class="id-color icofont-building"></i>
+                            <i class="id-color icofont-worker"></i>
                             <div class="text">
-                                <h4>Property</h4>
-                                Property Lawyers help clients deal with a wide range of property-related issues including buying, selling, subdividing, transferring titles, council and building restrictions, tax implications, approval processes, and restrictive covenants and easements.                            </div>
-                            <i class="wm icofont-building"></i>
-                            <div class="spacer-single"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mb30">
-                        <div class="feature-box f-boxed style-3 text-center">
-                            <i class="id-color icofont-bank"></i>
-                            <div class="text">
-                                <h4>Banking &amp; Insurance</h4>
-
-                                A banking and finance lawyer arranges loans to buy other companies, or to finance new business ventures. They also give legal advice, and work on a variety of corporate and finance-related cases. Banking and finance lawyers work for either a borrower (an individual or a company), or a lender (usually a bank).                            </div>
-                            <i class="wm icofont-bank"></i>
-                            <div class="spacer-single"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mb30">
-                        <div class="feature-box f-boxed style-3 text-center">
-                            <i class="id-color icofont-light-bulb"></i>
-                            <div class="text">
-                                <h4>Intellectual Property</h4>
-
-                                Intellectual property rights (IPR) are the rights given to persons over the creations of their minds: inventions, literary and artistic works, and symbols, names and images used in commerce. They usually give the creator an exclusive right over the use of his/her creation for a certain period of time.                            </div>
-                            <i class="wm icofont-light-bulb"></i>
+                                <h4>Labor</h4>
+                                What Do Labor Lawyers Do? As a division of employment law, labor lawyers represent both employers and employees in disputes and negotiations.
+                            </div>
+                            <i class="wm icofont-worker"></i>
                             <div class="spacer-single"></div>
                         </div>
                     </div>
