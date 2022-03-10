@@ -85,7 +85,7 @@
                             <i class="id-color icofont-worker"></i>
                             <div class="text">
                                 <h4>Labor</h4>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                What Do Labor Lawyers Do? As a division of employment law, labor lawyers represent both employers and employees in disputes and negotiations.
                             </div>
                             <i class="wm icofont-worker"></i>
                             <div class="spacer-single"></div>
@@ -96,8 +96,7 @@
                             <i class="id-color icofont-medical-sign-alt"></i>
                             <div class="text">
                                 <h4>Medical &amp; Health Care</h4>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                            </div>
+                                What do Health Care Lawyers do? Health care lawyers often represent clients in the health care industry in connection with general corporate matters, including corporate reorganization, capital financing, employee benefits, tax, and antitrust issues and general contract negotiation.                            </div>
                             <i class="wm icofont-medical-sign-alt"></i>
                             <div class="spacer-single"></div>
                         </div>
@@ -107,8 +106,7 @@
                             <i class="id-color icofont-mining"></i>
                             <div class="text">
                                 <h4>Mining</h4>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                            </div>
+                                Our mining industry attorneys provide comprehensive services relating to the financing and development of projects involving the exploration, extraction, processing, transportation and sale of non-ferrous and precious metals, coal and other minerals.                            </div>
                             <i class="wm icofont-mining"></i>
                             <div class="spacer-single"></div>
                         </div>
@@ -118,8 +116,8 @@
                             <i class="id-color icofont-law-order"></i>
                             <div class="text">
                                 <h4>Civil &amp; Criminal</h4>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                            </div>
+
+                                Civil law deals with the disputes between individuals, organizations etc., whereas Criminal Law is the body of law that deals with crime and the legal punishment for criminal offenses.                            </div>
                             <i class="wm icofont-law-order"></i>
                             <div class="spacer-single"></div>
                         </div>
@@ -129,8 +127,7 @@
                             <i class="id-color icofont-group-students"></i>
                             <div class="text">
                                 <h4>Family &amp; Marriage</h4>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                            </div>
+                                Family Lawyers are responsible for dealing with legal issues that arise between members of the same family. They represent clients in court for contentious cases concerning divorce and domestic violence, but also oversee family estates and offer advice on areas such as adoption and guardianship.                            </div>
                             <i class="wm icofont-group-students"></i>
                             <div class="spacer-single"></div>
                         </div>
@@ -140,8 +137,9 @@
                             <i class="id-color icofont-money"></i>
                             <div class="text">
                                 <h4>Corporate &amp; Investment</h4>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                            </div>
+
+                                Image result for corporate investment law firm description
+                                Corporate lawyers are tasked with safeguarding the legality of commercial transactions, representing corporations and advising corporate employees on their legal duties and responsibilities. ... These areas include tax law, bankruptcy, intellectual property, zoning or securities.                            </div>
                             <i class="wm icofont-money"></i>
                             <div class="spacer-single"></div>
                         </div>
@@ -151,8 +149,7 @@
                             <i class="id-color icofont-building"></i>
                             <div class="text">
                                 <h4>Property</h4>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                            </div>
+                                Property Lawyers help clients deal with a wide range of property-related issues including buying, selling, subdividing, transferring titles, council and building restrictions, tax implications, approval processes, and restrictive covenants and easements.                            </div>
                             <i class="wm icofont-building"></i>
                             <div class="spacer-single"></div>
                         </div>
@@ -162,8 +159,8 @@
                             <i class="id-color icofont-bank"></i>
                             <div class="text">
                                 <h4>Banking &amp; Insurance</h4>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                            </div>
+
+                                A banking and finance lawyer arranges loans to buy other companies, or to finance new business ventures. They also give legal advice, and work on a variety of corporate and finance-related cases. Banking and finance lawyers work for either a borrower (an individual or a company), or a lender (usually a bank).                            </div>
                             <i class="wm icofont-bank"></i>
                             <div class="spacer-single"></div>
                         </div>
@@ -173,8 +170,8 @@
                             <i class="id-color icofont-light-bulb"></i>
                             <div class="text">
                                 <h4>Intellectual Property</h4>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                            </div>
+
+                                Intellectual property rights (IPR) are the rights given to persons over the creations of their minds: inventions, literary and artistic works, and symbols, names and images used in commerce. They usually give the creator an exclusive right over the use of his/her creation for a certain period of time.                            </div>
                             <i class="wm icofont-light-bulb"></i>
                             <div class="spacer-single"></div>
                         </div>
